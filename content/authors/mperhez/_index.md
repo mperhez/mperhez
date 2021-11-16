@@ -79,7 +79,7 @@ view: 2
 ---
 
 
-I am Lecturer of the [Department of Computer Science and Creative Technologies](https://www.uwe.ac.uk/about/faculties-and-departments/environment-and-technology/computer-science-creative-technologies) in the University of the West of England Bristol. 
+I am Lecturer in the [Department of Computer Science and Creative Technologies](https://www.uwe.ac.uk/about/faculties-and-departments/environment-and-technology/computer-science-creative-technologies) at the University of the West of England Bristol. 
 
 I have been part of the <a href="https://www.ng-cdi.org/"> NGCDI programme</a>, exploring agent-based supervisory control architectures for the management of critical digital infrastructures. I started in NGCDI when I was Postdoctoral Research Associate in the [Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/) at the University of Cambridge, working with [Prof. Ajith Parlikad](https://www.ifm.eng.cam.ac.uk/people/aknp2/) and [Prof. Duncan McFarlane](https://www.ifm.eng.cam.ac.uk/people/dm114/).
 </p>
