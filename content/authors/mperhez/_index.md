@@ -79,7 +79,7 @@ view: 2
 ---
 
 
-I am a Postdoctoral Research Associate in the [Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/)  at the University of Cambridge where I work with [Dr. Ajith Parlikad](https://www.ifm.eng.cam.ac.uk/people/aknp2/) and [Prof. Duncan McFarlane](https://www.ifm.eng.cam.ac.uk/people/dm114/).
+I am a Postdoctoral Research Associate in the [Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/)  at the University of Cambridge where I work with [Prof. Ajith Parlikad](https://www.ifm.eng.cam.ac.uk/people/aknp2/) and [Prof. Duncan McFarlane](https://www.ifm.eng.cam.ac.uk/people/dm114/).
 Currently, I am part of the <a href="https://www.ng-cdi.org/"> NGCDI programme</a>, exploring agent-based supervisory control architectures for the management of critical digital infrastructures. 
 </p>
 
