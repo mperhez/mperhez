@@ -11,7 +11,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 # organizations:
 # - name: 
-#   url: https://www.cam.ac.uk/
+#   url: https://www.uwe.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include multiagent systems, internet of things, collective intelligence, network science and more generally distributed AI engineering.
@@ -79,10 +79,11 @@ view: 2
 ---
 
 
-I am a Postdoctoral Research Associate in the [Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/)  at the University of Cambridge where I work with [Prof. Ajith Parlikad](https://www.ifm.eng.cam.ac.uk/people/aknp2/) and [Prof. Duncan McFarlane](https://www.ifm.eng.cam.ac.uk/people/dm114/).
-Currently, I am part of the <a href="https://www.ng-cdi.org/"> NGCDI programme</a>, exploring agent-based supervisory control architectures for the management of critical digital infrastructures. 
+I am Lecturer in the Department of Computer Science and Creative Technologies at the [University of the West of England Bristol](https://www.uwe.ac.uk/about/faculties-and-departments/environment-and-technology/computer-science-creative-technologies). 
+
+I have been part of the <a href="https://www.ng-cdi.org/"> NGCDI programme</a>, exploring agent-based supervisory control architectures for the management of critical digital infrastructures. I started in NGCDI when I was Postdoctoral Research Associate in the Institute for Manufacturing (IfM) at the [University of Cambridge](https://www.ifm.eng.cam.ac.uk/) , working with [Prof. Ajith Parlikad](https://www.ifm.eng.cam.ac.uk/people/aknp2/) and [Prof. Duncan McFarlane](https://www.ifm.eng.cam.ac.uk/people/dm114/).
 </p>
 
-I completed my PhD in Computer Science at the [University of Leicester](https://le.ac.uk/informatics). Under the supervision of [Prof. Stephan Reiff-Marganiec](https://www.derby.ac.uk/staff/reiff-marganiec-stephan), I studied autonomy and self-adaptation in systems of smart objects and how to realise these behaviours through middleware architectures. 
+I completed my PhD in Computer Science at the [University of Leicester](https://le.ac.uk/informatics) as part of the team of [Prof. Stephan Reiff-Marganiec](https://www.derby.ac.uk/staff/reiff-marganiec-stephan), I studied autonomy and self-adaptation in systems of smart objects and how to realise these behaviours through middleware architectures. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
