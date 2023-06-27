@@ -79,7 +79,7 @@ view: 2
 ---
 
 
-I am Lecturer in the Department of Computer Science and Creative Technologies at the [University of the West of England Bristol](https://www.uwe.ac.uk/about/faculties-and-departments/environment-and-technology/computer-science-creative-technologies) where I research on and teach about topics related to multiagent systems, distributed artificial intelligence and their applications. I am recipient of the *UWE's Vice Chancellor Early Career Research Award 2022*. 
+I am Senior Lecturer in the Department of Computer Science and Creative Technologies at the [University of the West of England Bristol](https://www.uwe.ac.uk/about/faculties-and-departments/environment-and-technology/computer-science-creative-technologies) where I research on and teach about topics related to multiagent systems, distributed artificial intelligence and their applications. I am recipient of the *UWE's Vice Chancellor Early Career Research Award 2022*. 
 
 Before joining UWE I was Postdoctoral Research Associate in the Institute for Manufacturing (IfM) at the [University of Cambridge](https://www.ifm.eng.cam.ac.uk/), working mainly on the design of agent-based control systems.
 

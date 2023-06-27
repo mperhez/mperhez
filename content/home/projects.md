@@ -15,12 +15,14 @@ content:
 
 ## Current
 
-* Group Configurations in Artificial Multi‐agent Systems for the Management of Digital
-Infrastructures - £15K - Funder: UWE VC ECR Award: Role: PI
-
-* [GLOW-Energy nested bio system flows:from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) - Funder: EPSRC - Role: Research Collaborator 
+* Feasibility of AI techniques for a next generation flapping UAVs - 10K - Funder: UWE Seed Fund - Role: Co-I.
   
-* [NGCDI - Next Generation Digital Infrastructure](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R004935/1) - Funder: EPSRC & BT - Role: Research Collaborator
+* Group Configurations in Artificial Multi‐agent Systems for the Management of Digital
+Infrastructures - £15K - Funder: UWE VC ECR Award - Role: PI
+
+* [GLOW-Energy nested bio system flows:from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) - Funder: EPSRC - Role: Supporting Academic
+  
+* [NGCDI - Next Generation Digital Infrastructure](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R004935/1) - Funder: EPSRC & BT - Role: Supporting Academic.
 
 ## Past
 
