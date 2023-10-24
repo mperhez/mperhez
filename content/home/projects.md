@@ -15,20 +15,20 @@ content:
 
 ## Current
 
+* [GLOW-Energy nested bio system flows:from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) - Funder: EPSRC - Role: Co-I
+
 * Feasibility of AI techniques for a next generation flapping UAVs - 10K - Funder: UWE Seed Fund - Role: Co-I.
   
 * Group Configurations in Artificial Multi‐agent Systems for the Management of Digital
 Infrastructures - £15K - Funder: UWE VC ECR Award - Role: PI
-
-* [GLOW-Energy nested bio system flows:from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) - Funder: EPSRC - Role: Supporting Academic
   
-* [NGCDI - Next Generation Digital Infrastructure](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R004935/1) - Funder: EPSRC & BT - Role: Supporting Academic.
+* [NGCDI - Next Generation Digital Infrastructure](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R004935/1) - Funder: EPSRC & BT - Role: Researcher.
 
 ## Past
 
 * Simulating human-robot teams interactions for the care of senior adults - ~£2K - Funder: UWE HEIT/FET Scheme - Role: Project Supervisor.
 
-* [Digital Manufacturing on a Shoestring](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032777/1) - Funder: EPSRC - Role: Research Collaborator.
+* [Digital Manufacturing on a Shoestring](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032777/1) - Funder: EPSRC - Role: Research Associate.
 
 * IoT Systems to support operation of digital infrastructure 2020 - ~£2K - Funder: Research England through Pitch-In Connecting Capabilities Programme  - Role: Project Supervisor.
 
