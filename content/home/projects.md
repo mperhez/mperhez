@@ -17,7 +17,7 @@ content:
 
 * [GLOW-Energy nested bio system flows:from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) - Funder: EPSRC - Role: Co-I
 
-* Feasibility of AI techniques for a next generation flapping UAVs - 10K - Funder: UWE Seed Fund - Role: Co-I.
+* Evaluating the performance of LLM (Large Language Model) Agents in coding tasks - Funder: UWE CATE Funding Scheme.
   
 * Group Configurations in Artificial Multi‐agent Systems for the Management of Digital
 Infrastructures - £15K - Funder: UWE VC ECR Award - Role: PI
