@@ -1,7 +1,7 @@
 ---
-# An instance of the Featured widget.
+# An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Publications
-subtitle: Click [here!](https://scholar.google.com/citations?user=GiYgafsAAAAJ&hl=en&oi=ao) for the full list of publications.
+title: Latest Publications
+subtitle: Publications are shown from most recent to oldest. Click [here!](https://scholar.google.com/citations?user=GiYgafsAAAAJ&hl=en&oi=ao) for the full list.
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -23,6 +23,7 @@ content:
     category: ""
     publication_type: ""
     tag: ""
+    exclude_featured: false
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -32,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---

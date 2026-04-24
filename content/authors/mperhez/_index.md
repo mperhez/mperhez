@@ -1,30 +1,31 @@
 ---
 # Display name
-title: 
+title: Dr. Marco Perez Hernandez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-# role: 
+role: "Senior Lecturer<br>Distributed AI, Multi-Agent Learning, Collective Intelligence & Agent-based Simulation"
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: 
-#   url: https://www.uwe.ac.uk/
+organizations:
+- name: Computer Science Research Centre, University of the West of England Bristol
+  url: https://www.uwe.ac.uk/research/centres-and-groups/csrc/research-themes
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include multiagent systems, internet of things, collective intelligence, network science and more generally distributed AI engineering.
+bio: I study how multi-agent learning, optimisation and networked intelligence can engineer resilient socio-cyber-physical and industrial IoT systems.
 
-# Interests to show in About widget
+# # Interests to show in About widget
 # interests:
-# {{< figure src="/authors/mperhez/research-themes.png" title="Steve Francia" >}}
-#  - ![abc](/authors/mperhez/research-themes.png)
-# - Multiagent systems
-# - Internet of Things
-# - Collective Intelligence
-# - Network Science
-# - Distributed AI Engineering
+# - Multi-agent systems learning
+# - Collective intelligence
+# - Agent-based modelling and simulation
+# - Socio-cyber-physical systems
+# - Complex networks
+
+
+
 
 # Education to show in About widget
 # education:
@@ -77,17 +78,14 @@ highlight_name: false
 view: 2
 
 ---
+<p align="justify"> 
 
+I study <b>distributed AI</b> solutions for coordination, control, and decision-making in complex <b>industrial</b> and <b>socio-cyber-physical systems</b>.
 
-I am Senior Lecturer in the School of Computing and Creative Technologies at the [University of the West of England Bristol](https://www.uwe.ac.uk/about/colleges-and-schools/arts-technology-and-environment/computing-creative-technologies) where I research on and teach about topics related to multiagent systems, distributed artificial intelligence and their applications. I am recipient of the *UWE's Vice Chancellor Early Career Research Award 2022*. 
+My research focuses on how networked systems can adapt under uncertainty, respond timely, and remain robust at scale. I combine multi-agent learning, collective intelligence, and agent-based modelling and simulation to address challenges in industrial IoT, critical infrastructure, and autonomous operations. I am particularly interested in approaches that are not only technically effective, but also aligned with the human, organisational, community, and operational realities of deployment.
 
-Before joining UWE I was Postdoctoral Research Associate in the Institute for Manufacturing (IfM) at the [University of Cambridge](https://www.ifm.eng.cam.ac.uk/), working mainly on the design of agent-based control systems.
+I welcome collaborations with industry, public-sector partners and academic teams working on trustworthy distributed AI, intelligent infrastructure, industrial autonomy and networked decision-making.
 
-<!-- working with [Prof. Ajith Parlikad](https://www.ifm.eng.cam.ac.uk/people/aknp2/) and [Prof. Duncan McFarlane](https://www.ifm.eng.cam.ac.uk/people/dm114/). -->
 </p>
 
-I completed my PhD in Computer Science at the [University of Leicester](https://le.ac.uk/informatics), I studied autonomy and self-adaptation in systems of smart objects and how to realise these behaviours through middleware architectures. 
 
-<!-- as part of the team of [Prof. Stephan Reiff-Marganiec](https://www.derby.ac.uk/staff/reiff-marganiec-stephan) -->
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}cv{{< /staticref >}}.

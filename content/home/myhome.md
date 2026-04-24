@@ -7,8 +7,8 @@ design:
   view: 2
 
 
-title: Interests
-subtitle: <p align="justify"> I study and design distributed intelligent systems. I analyse the dynamics of complex networks of agents, design strategies, algorithms and protocols for collective system learning and self-organisation.  Most of my research work is applied to Internet of Things (IoT) environments, where intelligent agents are embodied in cyber-physical devices.</p>
+title: Research Focus
+subtitle: <p align="justify"> My research connects multi-agent systems learning, optimisation, collective intelligence and network science to the engineering of socio-cyber-physical and industrial IoT systems. I study how autonomous agents can learn, coordinate and adapt under uncertainty, and how those capabilities can be translated into resilient methods for intelligent infrastructure, industrial operations and connected services.</p>
 
 content:
 ---

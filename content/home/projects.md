@@ -7,29 +7,42 @@ design:
   view: 2
 
 
-title: Projects
-subtitle: <p align="justify"> Main Projects I have been involved with</p>
+title: Selected Projects
+subtitle: <p align="justify"> Funded research projects and the role I play(ed).</p>
 
 content:
 ---
 
-## Current
+EPSRC-funded
 
-* [GLOW-Energy nested bio system flows:from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) - Funder: EPSRC - Role: Co-I
+  * [[2023-2025] GLOW-Energy nested bio system flows: from the home to the hub](https://glow.arch.strath.ac.uk) as Co-Investigator 
 
-* Evaluating the performance of LLM (Large Language Model) Agents in coding tasks - Funder: UWE CATE Funding Scheme.
+  <!-- * [[2023-2025] GLOW-Energy nested bio system flows: from the home to the hub](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V041770/1) as Co-Investigator  -->
+
+  * [[2018-2022] NGCDI - Next Generation Digital Infrastructure](https://www.ng-cdi.org) as Research Associate
+
+  <!-- * [[2018-2022] NGCDI - Next Generation Digital Infrastructure](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R004935/1) as Research Associate -->
+
+  * [[2018-2020] Digital Manufacturing on a Shoestring](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032777/1) as Research Associate
+
+---
+
+Research England-funded through Pitch-In Connecting Capabilities Programme
+
+  * [2020] IoT Systems to support operation of digital infrastructure - ~£2K as Project Supervisor.
+
+---
+
+UWE Bristol-funded
+
+  * [2022-2023] Group configurations in artificial multi-agent systems for the management of digital infrastructures - £15K as Principal Investigator
   
-* Group Configurations in Artificial Multi‐agent Systems for the Management of Digital
-Infrastructures - £15K - Funder: UWE VC ECR Award - Role: PI
+  * [2024] Evaluating the performance of large language model agents in coding tasks as Project Supervisor.
   
-* [NGCDI - Next Generation Digital Infrastructure](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R004935/1) - Funder: EPSRC & BT - Role: Researcher.
+  * [2024] Simulating human-robot teams interactions for the care of senior adults - ~£2K as UWE HEIT/FET Scheme as Project Supervisor.
 
-## Past
+---
 
-* Simulating human-robot teams interactions for the care of senior adults - ~£2K - Funder: UWE HEIT/FET Scheme - Role: Project Supervisor.
+University of Leicester-funded
 
-* [Digital Manufacturing on a Shoestring](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032777/1) - Funder: EPSRC - Role: Research Associate.
-
-* IoT Systems to support operation of digital infrastructure 2020 - ~£2K - Funder: Research England through Pitch-In Connecting Capabilities Programme  - Role: Project Supervisor.
-
-* em4so - Embedded Middleware for Smart Objects - Funder: University of Leicester. Role: Doctoral Researcher.
+  * [2013-2017] em4so - Embedded Middleware for Smart Objects as Doctoral Researcher

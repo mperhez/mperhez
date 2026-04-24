@@ -1,0 +1,13 @@
+scholar:
+  user_id: GiYgafsAAAAJ
+
+site:
+  output_dir: content/publication
+  managed_slug_prefix: scholar-
+  max_publications: 5
+  featured: false
+  include_citation_count_in_summary: true
+
+sync:
+  remove_stale_managed_entries: true
+  dry_run: false
