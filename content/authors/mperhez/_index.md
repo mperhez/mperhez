@@ -84,8 +84,12 @@ I study <b>distributed AI</b> solutions for coordination, control, and decision-
 
 My research focuses on how networked systems can adapt under uncertainty, respond timely, and remain robust at scale. I combine multi-agent learning, collective intelligence, and agent-based modelling and simulation to address challenges in industrial IoT, critical infrastructure, and autonomous operations. I am particularly interested in approaches that are not only technically effective, but also aligned with the human, organisational, community, and operational realities of deployment.
 
-I welcome collaborations with industry, public-sector partners and academic teams working on trustworthy distributed AI, intelligent infrastructure, industrial autonomy and networked decision-making.
+If you're interested in trustworthy distributed AI, intelligent infrastructure, industrial autonomy, networked decision-making, or multi-agent systems and collective intelligence — I would love to hear from you. Whether you are a prospective PhD student, working in industry, from the public sector, or an academic keen to collaborate, let's connect and see what we can build together.
+
+
+**Get in touch:** marco.perez@ieee.org
 
 </p>
+
 
 
