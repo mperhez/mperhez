@@ -6,7 +6,7 @@ title: Dr. Marco Perez Hernandez
 superuser: true
 
 # Role/position/tagline
-role: "Senior Lecturer<br>Distributed AI, Multi-Agent Learning, Collective Intelligence & Agent-based Simulation"
+role: "Senior Lecturer<br> Multi-Agent Systems: Coordination, Control & Learning"
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -82,7 +82,7 @@ view: 2
 
 I study <b>distributed AI</b> solutions for coordination, control, and decision-making in complex <b>industrial</b> and <b>socio-cyber-physical systems</b>.
 
-My research focuses on how networked systems can adapt under uncertainty, respond timely, and remain robust at scale. I combine multi-agent learning, collective intelligence, and agent-based modelling and simulation to address challenges in industrial IoT, critical infrastructure, and autonomous operations. I am particularly interested in approaches that are not only technically effective, but also aligned with the human, organisational, community, and operational realities of deployment.
+My research focuses on how networked complex systems can coordinate effectively, adapt under uncertainty, and remain robust at scale. I develop methods that bring together multi-agent learning, collective intelligence, and agent-based modelling and simulation to address problems of coordination, optimisation, and control in industrial IoT, critical infrastructure, and autonomous operations. I am particularly interested in approaches that are not only technically rigorous and practically effective, but also aligned with the human, organisational, community, and operational realities of deployment.
 
 If you're interested in trustworthy distributed AI, intelligent infrastructure, industrial automation, or multi-agent systems; I would love to hear from you. Whether you are a prospective PhD student, working in industry, from the public sector, or an academic keen to collaborate, let's connect and see what we can build together.
 
