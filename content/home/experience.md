@@ -19,4 +19,4 @@ content:
 * [University of Leicester](https://le.ac.uk/informatics) ~ [2013 - 2018] Doctoral researcher focusing on autonomy and self-adaptation in systems of smart objects and the middleware architectures needed to realise them.
 * [NTT Data Spain - formerly everis Spain](https://www.nttdata.com/global/en/) ~ [2008 - 2013] Senior Technology Consultant, leading and supporting projects in IT governance, strategic IT programme management, and system software engineering for multinational clients.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}full cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mph-cv.pdf" "newtab" >}}full cv{{< /staticref >}}.
