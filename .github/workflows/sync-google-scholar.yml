@@ -10,7 +10,8 @@ permissions:
   pull-requests: write
 
 jobs:
-  sync:
+  sync:  
+    if: ${{ false }}
     runs-on: ubuntu-latest
 
     steps:
